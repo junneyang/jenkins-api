@@ -1,4 +1,4 @@
-jenkinsAPI
+jenkins-api
 ==========
 
 usage of jenkins api,mainly for json api.
